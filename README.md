@@ -9,10 +9,10 @@
 </div>
 
 <div align="center">
-   <a href="https://github.com/felipepellizzon">
+   
    <img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=felipepellizzon&show_icons=true&theme=radical">
    <img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepellizzon&layout=compact">
-   </a>   
+   
 </div>
    
 </html>
