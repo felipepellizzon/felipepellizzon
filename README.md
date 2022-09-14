@@ -20,18 +20,14 @@
   <a href="https://www.linkedin.com/in/felipepellizzon/" ><img height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
  <a href="https://www.instagram.com/felipealca"><img height="90" width="90" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a> 
 </div>   
-
-#### :fire: Meus stats   
    
 <div>
-   
+   #### :fire: Meus stats   
    <img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=felipepellizzon&show_icons=true&theme=radical">
    <img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepellizzon&layout=compact">
    
 </div>
    
 </html>
-
-
 
    ![Snake animation](https://github.com/felipepellizzon/felipepellizzon/blob/output/github-contribution-grid-snake.svg)
