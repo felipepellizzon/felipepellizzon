@@ -21,8 +21,9 @@
  <a href="https://www.instagram.com/felipealca"><img height="90" width="90" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a> 
 </div>   
    
-<div>
-   #### :fire: Meus stats   
+### :fire: Meus stats  
+   
+<div> 
    <img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=felipepellizzon&show_icons=true&theme=radical">
    <img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepellizzon&layout=compact">
    
