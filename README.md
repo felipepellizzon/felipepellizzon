@@ -1,6 +1,6 @@
 ## Hello there!  👋
 
-### Olá, me chamo Felipe e atualmente estudo para ser um dev Front-End.
+#### Olá, me chamo Felipe e atualmente sou dev FullStack, mas gosto mais do front-end.
 
 #### Ferramentas e Tecnologias
 <html>
@@ -33,4 +33,3 @@
    
 </html>
 
-   ![Snake animation](https://github.com/felipepellizzon/felipepellizzon/blob/output/github-contribution-grid-snake.svg)
